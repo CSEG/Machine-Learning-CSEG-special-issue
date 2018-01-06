@@ -1,0 +1,5 @@
+A	B	label	colour	interface
+-1	-1	2	red	Top_gas
+1	-1	0	blue	Top_wet
+1	1	2	red	Base_gas
+-1	1	0	blue	Base_wet
